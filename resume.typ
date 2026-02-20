@@ -1,6 +1,5 @@
 #import "@preview/neat-cv:0.6.2": (
-  contact-info, cv, email-link, entry, item-pills, item-with-level,
-  publications, side, social-links,
+  contact-info, cv, email-link, entry, item-pills, item-with-level, publications, side, social-links,
 )
 
 #set text(lang: "en")
@@ -33,7 +32,7 @@
 
   Date of birth: 22.04.1999
 
-  
+
 
   // Use colbreak() to insert a page break
   // #colbreak()
@@ -58,7 +57,7 @@
 
   #v(1fr)
   #social-links()
-  
+
   // = Other Skills
   // #item-pills((
   //   "Svelte",
@@ -66,7 +65,7 @@
 ]
 
 = About me
-  Fullstack & Platform Engineer based in Lisbon with experience in backend development, DevOps, and cloud infrastructure. Primarily working with Rust, Python, TypeScript, and Go, with a strong foundation in software engineering fundamentals that allows for quick adaptation to new languages and technology stacks. Track record of taking early-stage prototypes to production-ready systems, bridging the gap between Data Science and engineering, and mentoring teams on best practices.
+Fullstack & Platform Engineer based in Lisbon with experience in backend development, DevOps, and cloud infrastructure. Primarily working with Rust, Python, TypeScript, and Go, with a strong foundation in software engineering fundamentals that allows for quick adaptation to new languages and technology stacks. Track record of taking early-stage prototypes to production-ready systems, bridging the gap between Data Science and engineering, and mentoring teams on best practices.
 
 = Professional Experience
 
@@ -114,8 +113,12 @@
   institution: "Cetelem, BNP Group (HN Services consultant)",
   location: "Lisbon/Hybrid",
 )[
+  - Worked on the migration of local, OpenShift applications to dCloud Kubernetes provided by the BNP Group.
+  - Migrated CI/CD pipelines from Jenkins to GitLab CI, and implemented GitOps practices with ArgoCD.
 ]
-  
+
+#colbreak()
+
 = Projects
 
 #entry(
@@ -169,5 +172,5 @@
 #entry(
   title: "Computer Science",
   institution: "Faculdade de Ciências e Tecnologia - UNL",
-  [3 years]
+  [3 years],
 )
