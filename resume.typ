@@ -75,6 +75,8 @@ Fullstack & Platform Engineer based in Lisbon with experience in backend develop
   institution: "Collab (Multivision consultant)",
   location: "Lisbon/Hybrid",
 )[
+  - Worked on the development of an internal monitoring and alerting system, using C\# and Hangfire.
+  - Advised on the standardization of local development environments, using Docker, adapted to the needs of different developers and projects.
 ]
 
 #entry(
@@ -83,6 +85,8 @@ Fullstack & Platform Engineer based in Lisbon with experience in backend develop
   institution: "Linde (Multivision consultant)",
   location: "Lisbon/Remote",
 )[
+  - Was hired as a consultant to work on the migration of a specific REST API to Graphql.
+  - Was internalized as an employee after a few months, and took on more responsibilities (continue below).
 ]
 
 #entry(
