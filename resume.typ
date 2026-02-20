@@ -70,6 +70,15 @@ Fullstack & Platform Engineer based in Lisbon with experience in backend develop
 = Professional Experience
 
 #entry(
+  title: "Freelance Software Engineer",
+  date: "2021",
+  location: "Lisbon/Hybrid",
+)[
+  - Developed a mobile application for a local outdoor gym. This application included features such as registration, class scheduling and in-app payments. I was responsible for the process, from gathering requirements design collaboration and development.
+  - Developed an Android application for a kiosk style showcase of the client's products for a marketing fair. This involved collaboration on design, development and deployment to a fleet of tablets, ensuring the devices were locked down, to allow for unsupervised use in a public setting.
+]
+
+#entry(
   title: "DevOps Engineer",
   date: "01/2022 04/2022",
   institution: "Collab (Multivision consultant)",
