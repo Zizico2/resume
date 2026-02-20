@@ -130,7 +130,7 @@ Fullstack & Platform Engineer based in Lisbon with experience in backend develop
   - Migrated CI/CD pipelines from Jenkins to GitLab CI, and implemented GitOps practices with ArgoCD.
 ]
 
-#colbreak()
+// #colbreak()
 
 = Projects
 
