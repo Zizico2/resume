@@ -12,7 +12,7 @@
     address: "Lisbon - Portugal",
     phone: "+351 93 590 970 5",
     position: ("Fullstack Engineer", "Platform Engineer"),
-    website: "https://https://bernardobordadagua.com",
+    website: "https://bernardobordadagua.com",
     github: "Zizico2",
     linkedin: "bernardo-agua",
   ),
