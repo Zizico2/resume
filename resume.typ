@@ -116,6 +116,48 @@
 )[
 ]
   
+= Projects
+
+#entry(
+  title: "SurgeFlow",
+  institution: "Open-source / Rust",
+)[
+  - An experimental open-source Rust library aiming to be an alternative to Temporal, Airflow, and Cloudflare Workflows.
+  - Durable execution engine with adapters for AWS, RabbitMQ, and local development.
+  - Links: https://github.com/SurgeFlowDev/surgeflow - https://cloud.surgeflow.dev/
+]
+
+#entry(
+  title: "aide-axum-typed-multipart-2",
+  institution: "Open-source / Rust",
+)[
+  - Wrapper around `axum_typed_multipart` to generate OpenAPI documentation via `aide`.
+  - Links: https://github.com/Zizico2/aide-axum-typed-multipart-2 - https://crates.io/crates/aide-axum-typed-multipart-2
+]
+
+#entry(
+  title: "Simple Audio Editor",
+  institution: "Personal project",
+)[
+  - Lightweight client-side audio editor with trimming, volume adjustment and fades.
+  - Links: https://simple-audio-editor.bernardobordadagua.com - https://github.com/Zizico2/simple-audio-editor
+]
+
+#entry(
+  title: "Simple Image Cropper",
+  institution: "Personal project",
+)[
+  - Client-side image cropping tool supporting freeform aspect ratios.
+  - Links: https://simple-image-cropper.bernardobordadagua.com - https://github.com/Zizico2/simple-cropper
+]
+
+#entry(
+  title: "Simple Background Remover",
+  institution: "Personal project",
+)[
+  - Client-side background removal tool that processes images locally (no upload).
+  - Links: https://simple-background-remover.bernardobordadagua.com - https://github.com/Zizico2/simple-background-remover
+]
 
 = Education
 
