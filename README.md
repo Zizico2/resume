@@ -1,1 +1,1 @@
-[![resume](/resume.svg)](/resume.pdf)
+[![resume](/resume.svg)](/resume.html)
