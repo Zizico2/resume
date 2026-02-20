@@ -71,7 +71,7 @@ Fullstack & Platform Engineer based in Lisbon with experience in backend develop
 
 #entry(
   title: "Freelance Software Engineer",
-  date: "2021",
+  date: "2020 - 2021",
   location: "Lisbon/Hybrid",
 )[
   - Developed a mobile application for a local outdoor gym. This application included features such as registration, class scheduling and in-app payments. I was responsible for the process, from gathering requirements design collaboration and development.
